@@ -1,6 +1,6 @@
-p {
+.multi-para {
     background-color: #f08080;
-    font-size: 12px;
+    font-size: 10px;
     font-family: "Verdana", "DejaVu Sans", sans-serif;
 }
 
@@ -8,11 +8,11 @@ p {
     color: rgb(0, 0, 255);
     font-size: 36px;
 }
-.para-three {
+.multi-para.para-three {
     font-size: 24px;
 }
 
-.div-two {
+#id-two {
     background-color: lightgreen;
     font-size: 24px;
     font-weight: bold;

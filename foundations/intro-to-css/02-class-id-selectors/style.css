@@ -1,0 +1,19 @@
+p {
+    background-color: #f08080;
+    font-size: 12px;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#id-one{
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+.para-three {
+    font-size: 24px;
+}
+
+.div-two {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
